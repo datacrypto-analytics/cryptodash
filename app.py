@@ -106,7 +106,7 @@ app.layout = html.Div(
                             ],
                             "layout": {
                                 "title": {
-                                    "text": "Valor da transação (USD)",
+                                    "text": "Transações",
                                     "x": 0.05,
                                     "xanchor": "left",
                                 },
