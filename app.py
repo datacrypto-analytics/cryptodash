@@ -90,10 +90,6 @@ app.layout = html.Div(
                 ),
 
 
-
-				
-
-
 				
                 html.Div(
                     children=dcc.Graph(
@@ -103,7 +99,7 @@ app.layout = html.Div(
                             "data": [
                                 {
                                     "x": data["date"],
-                                    "y": data["dtv"],
+                                    "y": data["txs"],
                                     "type": "bar",
                                   
                                 },
