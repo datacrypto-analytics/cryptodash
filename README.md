@@ -15,3 +15,10 @@ Dashboard com métricas da rede Blockchain do Bitcoin Core.
 
 `~$ git clone https://github.com/datacrypto-analytics/cryptodash.git`
 
+
+
+`~$ cd cryptodash`
+
+
+`~$ pip install -r requirements`
+
