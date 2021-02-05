@@ -2,6 +2,7 @@
 
 ## Descrição/Description
 
+
 Dashboard com métricas da rede Blockchain do Bitcoin Core.
 ------
 ![](assets/dash-ini.png)
@@ -9,7 +10,8 @@ Dashboard com métricas da rede Blockchain do Bitcoin Core.
 ![](assets/dash-end.png)
 
 ------
-## Instalção
+## Instalação
 
 
+`~$ git clone https://github.com/datacrypto-analytics/cryptodash.git`
 
