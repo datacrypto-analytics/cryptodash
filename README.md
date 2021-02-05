@@ -10,7 +10,7 @@
 ------
 Dashboard com métricas da rede Blockchain do Bitcoin Core.
 
-As métricas disponíveis até o momeno para serem vizualizadas são:
+As métricas disponíveis até o momeno para serem visualizadas são:
 
 - Preço Fechamento
 - Transações
