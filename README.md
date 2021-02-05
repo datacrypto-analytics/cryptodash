@@ -18,6 +18,9 @@ As métricas disponíveis até o momeno para serem visualizadas são:
 - Saída total do bloco (USD)
 - Valor médio da transação (USD)
 
+
+Fornecedor de dados: [ByteTree](https://bytetree.com/api)
+
 ------
 ![](assets/dash-ini.png)
 
