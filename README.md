@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/license/datacrypto-analytics/cryptodash?style=flat-square)
+
+
 # CryptoDash
 
 ## Descrição/Description
