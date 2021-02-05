@@ -1,5 +1,6 @@
 ![](https://img.shields.io/github/license/datacrypto-analytics/cryptodash?style=flat-square)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/datacrypto-analytics/cryptodash)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/datacrypto-analytics/cryptodash?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/datacrypto-analytics/cryptodash?style=flat-square)
 
 
 # CryptoDash
